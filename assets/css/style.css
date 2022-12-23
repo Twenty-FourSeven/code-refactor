@@ -24,7 +24,7 @@ body {
     color: #d9dcd6;
 }
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,14 +32,42 @@ body {
     font-size: 20px;
 }
 
+/* Replace div with nav 
+
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+*/
+
+.header nav ul {
+    list-style-type: none;
+}
+
+/* Replace div with nav
+
 .header div ul {
     list-style-type: none;
 }
+*/
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/* Replace div with nav
 
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
+*/
+
+
 
 a {
     color: #ffffff;
