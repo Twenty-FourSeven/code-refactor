@@ -1,6 +1,8 @@
-# Code-Refactor
+#Code-Refactor
 
 Improving HTML semantics and accesibility, and optimizing CSS.
+
+---
 
 ## Webpage Restructuring and Enhancements
 
