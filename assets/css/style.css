@@ -244,6 +244,16 @@ p {
 *
 *************************************************************************************/
 
+.content-card h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/***********************************************************************************
+* Consolidate classes: .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 to .content-card h2
+*
+*
+
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -258,13 +268,10 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
+*
+*
+*
+*************************************************************************************/
 
 .footer h2 {
     font-size: 20px;
