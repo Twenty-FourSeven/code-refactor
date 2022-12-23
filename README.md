@@ -16,10 +16,12 @@ Improving HTML semantics and accesibility, and optimizing CSS
 
 ## Mockup
 
-
 # Usage
 
 Below you will find screenshots of selected sections of code from the HTML and CSS files for this project. The rendered website should match the screenshots.
+
+    ![HTML](assets/images/README_images/html.png)
+    ![HTML](assets/images/README_images/css.png)
 
 # Credits
 
