@@ -20,12 +20,13 @@ URL to the Horiseon webpage: https://twenty-fourseven.github.io/code-refactor/
 
 ## Usage
 
-Below you will find screenshots of selected sections of code from the HTML and CSS files for this project. The rendered website should match the screenshots.
+Below you will find screenshots of selected sections of code from the HTML and CSS files for this project as well as screenshots of the webpage. The rendered website should match the screenshots.
 
-    ![HTML](assets/images/README_images/)
+    ![HTML](assets/images/README_images/Top-Half.png)
+    ![HTML](assets/images/README_images/Bottom-Half.png)
     ![HTML](assets/images/README_images/html.png)
     ![HTML](assets/images/README_images/css.png)
 
 ## Credits
 
-The original code was from Xandromus of the University of Washington's coding bootcamp.
+The original code was courtesy of Xandromus of the University of Washington's coding bootcamp.
