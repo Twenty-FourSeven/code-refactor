@@ -14,6 +14,9 @@ Improving HTML semantics and accesibility, and optimizing CSS
 
 - Title element is concise and descriptive.
 
+## Mockup
+
+
 # Usage
 
 Below you will find screenshots of selected sections of code from the HTML and CSS files for this project. The rendered website should match the screenshots.
