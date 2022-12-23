@@ -183,7 +183,7 @@ p {
 
 
 /***********************************************************************************
-* Consolidate classes: .search-engine-optimization, .online-reputation-management, .social-media-marketing
+* Consolidate classes: .search-engine-optimization, .online-reputation-management, .social-media-marketing to .content-card
 *
 *
 
@@ -217,9 +217,20 @@ p {
 *
 *************************************************************************************/
 
+.content-card img {
+    max-height: 200px;
+}
+
+
+/***********************************************************************************
+* Consolidate classes: .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img to .content-card img
+*
+*
+
 .search-engine-optimization img {
     max-height: 200px;
 }
+
 
 .online-reputation-management img {
     max-height: 200px;
@@ -228,6 +239,10 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+*
+*
+*
+*************************************************************************************/
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
